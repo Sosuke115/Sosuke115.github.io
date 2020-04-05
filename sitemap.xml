@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>/project/cldc/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/date-simulation/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -48,7 +53,7 @@
   </url>
   
   <url>
-    <loc>/project/nakamoto/</loc>
+    <loc>/project/nakamoto_ditector/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
