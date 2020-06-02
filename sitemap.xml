@@ -68,6 +68,11 @@
   </url>
   
   <url>
+    <loc>/publication/unmt-vec/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/cldc/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -100,11 +105,6 @@
   <url>
     <loc>/project/d3project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/unmt-vec/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
