@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>/post/apex_pytorch/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/wantedly/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url>
@@ -70,11 +75,6 @@
   <url>
     <loc>/post/cython/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/benri_memo/</loc>
-    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
