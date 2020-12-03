@@ -118,7 +118,15 @@
   </url>
   
   <url>
+    <loc>/tags/api/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/ocr/</loc>
   </url>
   
 </urlset>
