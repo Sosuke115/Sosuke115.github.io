@@ -776,7 +776,7 @@ Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoq
     </item>
     
     <item>
-      <title>Data Augmentation for Learning Bilingual Word Embeddings with Unsupervised Machine Translation (preprint)</title>
+      <title>Data Augmentation for Learning Bilingual Word Embeddings with Unsupervised Machine Translation</title>
       <link>/publication/unmt-vec-coling/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       <guid>/publication/unmt-vec-coling/</guid>
@@ -945,7 +945,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
-      <title>教師なし機械翻訳の出力結果から作成したBilingual Word Embeddingsの分析 (NLP2020)</title>
+      <title>教師なし機械翻訳の出力結果から作成したBilingual Word Embeddingsの分析</title>
       <link>/publication/unmt-vec/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/publication/unmt-vec/</guid>
